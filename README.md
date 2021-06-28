@@ -1,0 +1,2 @@
+## Opinião sobre o curso
+##### Curso muito bacana porém passa pelos assuntos muito rapidamente. Para quem não conhece muito os assuntos ou está começando do zero sente um pouco de dificuldade. Por exemplo eu não entendia nada de GIT então na parte de criar um commit deu erro e tive que pesquisar como preceder pois na aula não tinha.
