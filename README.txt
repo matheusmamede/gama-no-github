@@ -1,1 +1,0 @@
-Curso muito bacana porém passa pelos assuntos muito rapidamente. Para quem não conhece muito os assuntos ou está começando do zero sente um pouco de dificuldade. 
